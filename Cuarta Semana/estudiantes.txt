@@ -1,0 +1,3 @@
+cc,bb,bb,bb,bb,0
+100,Fredy,Torres,Paucar,Medicina,18
+cc,cc,cc,cc,cc,18
